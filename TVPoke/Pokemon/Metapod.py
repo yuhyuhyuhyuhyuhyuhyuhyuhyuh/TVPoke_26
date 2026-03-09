@@ -9,4 +9,4 @@ class Metapod(Poison):
             Move("Harden [does nothing]", "NORMAL", 0),
             Move("Splash [does nothing]", "NORMAL", 0)
         ]
-        super().__init__("Weedle", 40, moves, "./TVPoke/Pokemon/imgs/Metapod.png")
+        super().__init__("Metapod", 40, moves, "./TVPoke/Pokemon/imgs/Metapod.png")
